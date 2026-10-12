@@ -1,0 +1,6 @@
+{
+  "name": "Zahra Atelier - Luxury Women's Clothing & E-Commerce",
+  "description": "An exquisite women's clothing brand e-commerce platform featuring bridal, pret, festive collections, dress management, order tracking, cart & checkout, and feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
